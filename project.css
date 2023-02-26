@@ -1,0 +1,456 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* nav start */
+.homenav nav{ background-image: url(./wallpapersden.com_red-mountains_3840x2160.jpg);
+display: flex;
+}
+.homenav nav h1{
+    padding-left: 640px;
+    font-size: 70px;
+padding-top: 350px;
+padding-bottom: 200px;
+position: relative;
+color: white;
+font-weight: 900;
+}
+.homenav nav p{
+    color: white;
+font-size: 20px;
+padding-left: 770px;
+padding-top: 320px;
+position: absolute;
+}
+.homenav nav ul{
+margin-left: 870px;
+position: absolute;
+margin-top: 40px;
+}
+.homenav nav ul li{
+    margin-left: 10px;
+    display: inline;
+ 
+}
+.homenav nav ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;   
+}
+.homenav nav ul li a:hover{
+    background-color: rgb(250, 115, 4);
+}
+.icon i{
+    font-size: 50px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 350px;
+    color: rgb(255, 136, 0);
+}
+
+#lili li{
+    position: absolute;
+    margin-top: -21px;
+    margin-left: 509px;
+    width: 80px;
+}
+#lili li a{
+    background-color: rgb(250, 115, 4);
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    padding: 6px 13px;
+}
+
+/* nav end */
+
+/* srevice start */
+.tag h1{
+    font-size: 40px;
+   padding-left: 790px;
+    padding-top: 50px;
+    background-color: aliceblue;
+}
+.ptag{
+    background-color: aliceblue;
+    padding-left: 690px;
+    padding-top: 10px;
+}
+.osmain{
+    background-color: aliceblue;
+    display: flex;
+    padding-left: 400px;
+    padding-bottom: 100px;
+}
+.sp{
+    height: 200px;
+    width: 300px;
+    margin-top: 40px;
+    border: 1px ;
+    margin-left: 50px;
+    background-color: white;
+}
+.sp p{
+    text-align: justify;
+    margin: 0 10px;
+}
+.sp h4{
+    color: rgb(255, 153, 0);
+    margin: 10px 10px;
+}
+.sp h3{
+    margin-bottom: 10px;
+    margin: 10px 10px;
+}
+/* service end */
+/* about start */
+.haha{
+    display: flex;
+}
+.mam{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.myh h1{
+    font-size: 40px;
+}
+.ap p{
+    margin-bottom: 20px;
+}
+.lorem p{
+    height: 50px;
+    width: 450px;
+}
+.pic img{
+    margin-top: 70px;
+    height: 300px;
+    width: 450px;
+}
+
+.msm{
+    margin-top: 70px;
+    margin-left: 90px;
+}
+.pm{
+    display: flex;
+    margin-top: 50px;
+}
+.ppp img{
+    height: 230px;
+    width: 280px;
+}
+.mdm img{
+    height: 230px;
+    width: 280px;
+    margin-left: 50px;
+}
+.para p{
+    height: 50px;
+    width: 580px;
+}
+.kkk p{
+    height: 30px;
+    width: 580px;
+    margin-top: 50px;
+}
+.ex p{
+    height: 50px;
+    width: 580px;
+    margin-top: 30px;
+}
+/* avout end */
+
+/* protfolio start */
+.mainpro{
+    background-color: aliceblue; 
+    
+}
+.ppera h1{
+padding-left: 800px;
+padding-top: 50px;
+font-size: 40px;
+}
+.hj p{
+    padding-left: 790px;
+    margin-top: 10px;
+}
+.navber nav{
+    display: flex;
+    
+}
+.navber nav ul{
+    margin-left: 740px;
+    margin-top: 30px;
+    border: 1px solid;
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    padding: 1px 8px;
+    border-radius: 20px;
+    
+}
+.navber nav ul li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline;
+  
+   
+}
+.navber nav ul li a{
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 30px;
+    color: rgb(0, 0, 0);
+}
+.batton{
+    margin-top: 10px;
+}
+
+.batton li a{
+    background-color: rgb(250, 115, 4);
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+.batton li{
+    margin-left: -36px;
+}
+.navber nav ul li a:hover{
+    background-color: rgb(250, 115, 4);
+}
+.fstdis{
+    padding-left: 450px;
+    padding-top: 20px;
+     display: flex;
+}
+.fstimg img{
+    height: 250px;
+    width: 300px;
+}
+.sec img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+.thi img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+
+.scefst{
+    padding-left: 450px;
+    padding-top: 20px;
+    display: flex;
+}
+.po img{
+    height: 250px;
+    width: 300px;
+}
+.op img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+.opo img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+.sfst{
+    padding-left: 450px;
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 100px;
+}
+.jk img{
+    height: 250px;
+    width: 300px;
+}
+.kj img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+.jkj img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+/* protfolio end */
+
+ /* last atticle start */
+.il h1{
+    padding-left: 800px;
+padding-top: 50px;
+font-size: 40px;
+}
+.pppe p{
+    padding-left: 780px;
+    margin-top: 10px;
+}
+.mainlst{
+    display: flex;
+    margin-top: 30px;
+    padding-left: 390px;
+    margin-bottom: 150px;
+}
+.www img{
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+}
+.www h4{margin-left: 50px;
+text-align: center;
+}
+.www p{margin-left: 50px;
+text-align: justify;
+}
+
+.www{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    height: 250px;
+    width: 300px;
+    
+}
+ /* last atticle end */
+
+  /* testmonial start  */
+.tmam{
+    background-color: aliceblue; 
+}
+
+  .tst h1{
+    padding-left: 800px;
+padding-top: 50px;
+font-size: 40px;
+}
+.tstp p{
+    padding-left: 780px;
+    margin-top: 10px;
+}
+.redious{
+    display: flex;
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.ihhp img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.ihhp h3{
+    text-align: center;
+}
+.ihhp h5{
+    text-align: center;
+}
+.ihhp p{
+    text-align: justify;
+    margin: 10px;
+}
+.ihhp{
+    margin-left: 50px;
+}
+.pbf{
+    display: flex;
+}
+.pbf h3{
+    margin-left: 10px;
+    margin-top: 25px;
+    
+}
+.pbf h5{
+    margin-top: 55px;
+    margin-left: -70px;
+}
+
+.ihhp{
+    border: 1px rgb(163, 163, 163);
+    height: 210px;
+    width: 300px;
+    background-color: white;
+} 
+ /* testmonial end */
+
+ /* component start */
+ .poi{
+    background-image: url(./istockphoto-944880340-170667a.jpg);
+    display: flex;
+
+}
+.hii1{
+    color: white;
+    display: inline;
+    padding-top: 160px;
+}
+.pas{
+    margin-bottom: 20px;
+    padding-left: 400px;
+}
+.hii2{
+    color: white;
+    display: inline;
+    margin-left: 180px;
+}
+.hiih h2{
+    padding-top: 100px;
+    margin-left: 20px;
+}
+.form Form{
+    display: flex;
+    margin-top: 70px;
+    box-sizing: 0px;
+    
+}
+.form input{
+    margin-left: 20px;
+}
+.exx input{
+    border: none;
+    text-decoration: none;
+}
+.fffs Form{
+    margin-top: 60px;
+    box-sizing: 0px;
+    margin-left: 20px;
+}
+.butt{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.butt button{
+    background-color: rgb(250, 115, 4);
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 30px;
+    color: white;
+}
+.hiimain{
+    display: inline;
+}
+.plm p{
+    margin-top: 470px;
+    padding-bottom: 40px;
+    margin-left: -935px;
+    color: white;
+}
+.hrr hr{
+    margin-top: 440px;
+    margin-left: -935px;
+    color: white;
+}
+ /* component end */
